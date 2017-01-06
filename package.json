@@ -1,0 +1,26 @@
+{
+  "name": "senates-names",
+  "version": "1.0.0",
+  "description": "Get random senate names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixj93/senates-names.git"
+  },
+  "keywords": [
+    "random",
+    "senate"
+  ],
+  "author": "mixj93 <lixueli93@gmail.com> (http://mixj93.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixj93/senates-names/issues"
+  },
+  "homepage": "https://github.com/mixj93/senates-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
