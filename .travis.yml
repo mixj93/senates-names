@@ -9,7 +9,9 @@ node_js:
   - '6'
   - '4'
 before_script:
-  - npm run test
+  - npm prune
+script:
+  - npm run test:single
 after_success:
   - npm run semantic-release
 branches:
