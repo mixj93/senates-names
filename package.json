@@ -1,6 +1,6 @@
 {
   "name": "senates-names",
-  "version": "0.0.0-semantically-released",
+  "version": "1.2.0",
   "description": "Get random senate names",
   "main": "src/index.js",
   "scripts": {
